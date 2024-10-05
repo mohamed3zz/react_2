@@ -1,0 +1,15 @@
+.navbar {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 3em;
+}
+.navbar button {
+    color: white;
+    background: #233142;
+    width: 6em;
+    height: 2.5em;
+    border-radius: 1em;
+    font-size: 1.5em;
+}
